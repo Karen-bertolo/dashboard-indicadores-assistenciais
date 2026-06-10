@@ -22,5 +22,3 @@ Projeto desenvolvido em Power BI para monitoramento de indicadores assistenciais
 
 ![Dashboard](dashboard.png)
 
-## Arquivos
-- Dashboard_Indicadores.pbix
